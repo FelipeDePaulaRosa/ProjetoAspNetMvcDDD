@@ -1,0 +1,6 @@
+D:\Documentos\Treinamento\ProjetoAspNetMvc5DDD\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.dll
+D:\Documentos\Treinamento\ProjetoAspNetMvc5DDD\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.pdb
+D:\Documentos\Treinamento\ProjetoAspNetMvc5DDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.csprojAssemblyReference.cache
+D:\Documentos\Treinamento\ProjetoAspNetMvc5DDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.csproj.CoreCompileInputs.cache
+D:\Documentos\Treinamento\ProjetoAspNetMvc5DDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.dll
+D:\Documentos\Treinamento\ProjetoAspNetMvc5DDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.pdb

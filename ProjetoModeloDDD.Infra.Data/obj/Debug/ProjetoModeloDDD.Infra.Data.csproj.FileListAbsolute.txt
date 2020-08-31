@@ -1,0 +1,14 @@
+D:\Documentos\Treinamento\ProjetoAspNetMvc5DDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll.config
+D:\Documentos\Treinamento\ProjetoAspNetMvc5DDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll
+D:\Documentos\Treinamento\ProjetoAspNetMvc5DDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.pdb
+D:\Documentos\Treinamento\ProjetoAspNetMvc5DDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.dll
+D:\Documentos\Treinamento\ProjetoAspNetMvc5DDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documentos\Treinamento\ProjetoAspNetMvc5DDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.dll
+D:\Documentos\Treinamento\ProjetoAspNetMvc5DDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.pdb
+D:\Documentos\Treinamento\ProjetoAspNetMvc5DDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.xml
+D:\Documentos\Treinamento\ProjetoAspNetMvc5DDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documentos\Treinamento\ProjetoAspNetMvc5DDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csprojAssemblyReference.cache
+D:\Documentos\Treinamento\ProjetoAspNetMvc5DDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Documentos\Treinamento\ProjetoAspNetMvc5DDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.CopyComplete
+D:\Documentos\Treinamento\ProjetoAspNetMvc5DDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.dll
+D:\Documentos\Treinamento\ProjetoAspNetMvc5DDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.pdb
